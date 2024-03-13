@@ -1,7 +1,5 @@
-wellcom to shabakaty pro team app
-![20240305_173346](https://github.com/ahmed95i/shabakaty-pro-/assets/54256870/bd880829-c6e7-467e-9d52-0a34df3cf94b)
-
-
+wellcom to shabakaty pro team 
+<br/>
 <img
 src="https://i.postimg.cc/mr0dYRLM/Rounded-20240215-200334.png">
 
