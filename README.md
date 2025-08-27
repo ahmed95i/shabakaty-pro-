@@ -56,8 +56,7 @@
 ---
 
 ## 📥 التحميل
-🔗 [تحميل آخر نسخة APK]
-(https://github.com/ahmed95i/shabakaty-pro-/releases/download/v2.2.4/Shabakaty.Pro.Premuim.apk)  
+🔗 [تحميل آخر نسخة APK](https://github.com/ahmed95i/shabakaty-pro-/releases/download/v2.2.4/Shabakaty.Pro.Premuim.apk) 
 
 ---
 
