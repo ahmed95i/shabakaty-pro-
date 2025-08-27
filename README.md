@@ -25,7 +25,7 @@
 
 <p align="center">
   <!-- هنا تحط رابط الـ GIF -->
-  <img src="https://your-gif-link-here.gif" alt="Demo GIF" width="70%">
+  <img src="https://iili.io/K2IyUhP.gif" alt="Demo GIF" width="70%">
 </p>
 
 ---
@@ -43,7 +43,6 @@
 <p align="center">
   <img src="https://iili.io/K2xSeCF.png" width="30%">
   <img src="https://iili.io/K2xSeCF.png" width="30%">
-  <img src="https://iili.io/K2xSkEg.md.png" width="30%">
 </p>
 
 ---
