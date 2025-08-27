@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-✓-red?style=for-the-badge&logo=java">
   <img src="https://img.shields.io/badge/Firebase-Integrated-yellow?style=for-the-badge&logo=firebase">
-  <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-Premuim UI-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
 </p>
 
